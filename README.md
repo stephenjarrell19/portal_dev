@@ -1,2 +1,2 @@
 # portal_dev
-temporary repository while we troubleshoot SSH tunneling
+Temporary repository for Cell Browser Portal (UCSC) while we troubleshoot SSH tunneling.
